@@ -1,0 +1,1 @@
+Kalkulator na urządzenia mobilne.
